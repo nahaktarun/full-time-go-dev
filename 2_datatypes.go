@@ -49,7 +49,7 @@ func getWeapon(weapon Weapon) string {
 	return string(weapon)
 }
 
-func main() {
+func datatypes() {
 
 	player := Player{
 		name:        "foo",
